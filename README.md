@@ -17,15 +17,12 @@ Eniac is an e-commerce company which is finding a way between upgrading customer
   For January - October:
 - Keep average discount for loyal big companies.
 - Decrease discounts for new, individual customers, but keep discount close to average of competitors.
-
-
  
  
 ###### About data:
  1. All the cleaned csv files used in the analysis can be found in data folder. (https://github.com/tejalsungra/Project_2_eniac_discounts/tree/main/data)
- 2. Code notebook (https://github.com/tejalsungra/Project_2_eniac_discounts/blob/main/project_eniac_discounts.ipynb)
- 
- 
+ 2. Main code notebook (https://github.com/tejalsungra/Project_2_eniac_discounts/blob/main/project_eniac_discounts.ipynb).
+ 3. Data cleaning notebooks (https://github.com/tejalsungra/Project_2_eniac_discounts/tree/main/data_cleaning_quality). 
  
 ###### Challenges:
  Inconsistencies in the data  were handeled by:
